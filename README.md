@@ -1,3 +1,5 @@
+<p>
+    Hi 👋 I'm Yuval
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Learning+enthusiast;Engineering+undergrad;" </p>
 
@@ -12,7 +14,6 @@
 </p>
 
 ## About Me
-* 👋 &nbsp;I'm Yuval Sharma (he/his)
 * 🌉 &nbsp;I'm from Delhi, India
 * 🧠 &nbsp;I’m currently learning Data Structures and Algorithms(DSA) in Java. And also learning Web Development side by side
 
