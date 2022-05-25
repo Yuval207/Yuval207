@@ -23,10 +23,7 @@
 ## My Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuval207&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-
- 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuval207&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![profile views](https://komarev.com/ghpvc/?username=Yuval207&style=flat&color=brightgreen&label=Profile+Views)
-<p>
+
