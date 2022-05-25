@@ -27,3 +27,5 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=Yuval207&style=flat&color=brightgreen&label=Profile+Views)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuval207&" alt="Yuval207"/></p>
+
