@@ -1,5 +1,5 @@
-<p>
-    Hi 👋 I'm Yuval
+
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm **Yuval**
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Learning+enthusiast;Engineering+undergrad;" </p>
 
@@ -25,7 +25,7 @@
 
 <p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuval207&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
 
 ![profile views](https://komarev.com/ghpvc/?username=Yuval207&style=flat&color=brightgreen&label=Profile+Views)
