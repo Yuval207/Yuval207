@@ -25,7 +25,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuval207&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![profile views](https://komarev.com/ghpvc/?username=Yuval207&style=flat&color=brightgreen&label=Profile+Views)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuval207&" alt="Yuval207"/></p>
+
+![profile views](https://komarev.com/ghpvc/?username=Yuval207&style=flat&color=brightgreen&label=Profile+Views)
 
