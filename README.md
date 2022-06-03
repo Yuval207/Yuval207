@@ -1,5 +1,5 @@
 
-### Hi , I'm **Yuval**
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "29px" width = "29px">, I'm **Yuval**
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines=Learning+enthusiast;Engineering+undergrad;" </p>
 
