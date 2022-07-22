@@ -13,21 +13,33 @@
   </a>
 </p>
 
-## About Me
-* 🌉 &nbsp;I'm from Delhi, India
-* 🧠 &nbsp;I’m currently learning Data Structures and Algorithms(DSA) in Java. And also learning Web Development side by side
+## 👨‍💻About Me
+* 🌉 &nbsp;I'm from Delhi, India.
 
-## Languages and tools 
+* 🧠 &nbsp;I’m currently learning Data Structures and Algorithms(DSA) in Java. And also learning Web Development side by side.
+
+
+---
+
+
+## 🛠️Languages and tools 
 ![skills](https://skillicons.dev/icons?i=html,css,py,git,java,c,cpp,js&theme=light)
+
+
+---
+
 
 ## My Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuval207&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuval207&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuval207&" alt="Yuval207"/></p>
-
-![profile views](https://komarev.com/ghpvc/?username=Yuval207&style=flat&color=brightgreen&label=Profile+Views)
-
