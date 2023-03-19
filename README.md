@@ -16,7 +16,8 @@
 ## 👨‍💻About Me
 * 🌉 &nbsp;I'm from Delhi, India.
 
-* 🧠 &nbsp;I’m currently learning Data Structures and Algorithms(DSA) in Java. And also learning Web Development side by side.
+* 🧠 &nbsp;I’m currently learning Data Structures and Algorithms(DSA) in Cpp.
+* 🧠 &nbsp;Also getting my hands into Machine learning.
 
 
 ---
