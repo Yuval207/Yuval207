@@ -14,10 +14,9 @@
 </p>
 
 ## 👨‍💻About Me
-* 🌉 &nbsp;I'm from Delhi, India.
 
-* 🧠 &nbsp;I’m currently learning Data Structures and Algorithms(DSA) in Cpp.
-* 🧠 &nbsp;Also getting my hands into Machine learning.
+* 🧠 &nbsp;I’m currently getting my hands into Machine learning.
+* 🧠 &nbsp;Also struggling to learn Data Structures.
 
 
 ---
