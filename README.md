@@ -15,8 +15,8 @@
 
 ## 👨‍💻About Me
 
-* 🧠 &nbsp;I’m currently getting my hands into Machine learning.
-* 🧠 &nbsp;Also struggling to learn Data Structures.
+* 🧠 &nbsp; I’m currently getting my hands into Machine learning.
+* 🧠 &nbsp; Also struggling to learn Data Structures.
 
 
 ---
