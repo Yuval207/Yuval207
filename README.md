@@ -15,7 +15,7 @@
 
 ## 👨‍💻About Me
 
-* 🧠 &nbsp; I’m currently getting my hands into Machine learning.
+* 🧠 &nbsp; I’m currently getting my hands into Web Development.
 * 🧠 &nbsp; Also struggling to learn Data Structures.
 
 
